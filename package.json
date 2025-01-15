@@ -17,7 +17,7 @@
     "lint-staged": ">=10"
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix"
+    "*.js": "eslint"
   },
   "husky": {
     "hooks": {
