@@ -4,4 +4,5 @@ const add = (a, b) => a + b
 console.log(add(a, b));
 console.log(add(10, 20));
 const c = 30
+console.log(add(b, c));
 export default add
